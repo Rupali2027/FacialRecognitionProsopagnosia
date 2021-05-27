@@ -32,7 +32,7 @@ Now a new directory in the dataset folder is formed with the name "Rupali"
 
 ![image](https://user-images.githubusercontent.com/66245321/119339866-58337c80-bcaf-11eb-90ce-cc5c95cf54f0.png)
 
-Now I run the face_detect python file to detect faces I already have now in the dataset
+Now I run the face_recognise python file to detect faces I already have now in the dataset
 
 ![image](https://user-images.githubusercontent.com/66245321/119340350-0a6b4400-bcb0-11eb-9749-176bd1f0a863.png)
 
